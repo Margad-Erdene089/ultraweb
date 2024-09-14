@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ultraweb/static/css/main.45fa2afa.css",
+    "main.js": "/ultraweb/static/js/main.d6524328.js",
+    "static/js/453.21982bce.chunk.js": "/ultraweb/static/js/453.21982bce.chunk.js",
+    "index.html": "/ultraweb/index.html",
+    "main.45fa2afa.css.map": "/ultraweb/static/css/main.45fa2afa.css.map",
+    "main.d6524328.js.map": "/ultraweb/static/js/main.d6524328.js.map",
+    "453.21982bce.chunk.js.map": "/ultraweb/static/js/453.21982bce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45fa2afa.css",
+    "static/js/main.d6524328.js"
+  ]
+}

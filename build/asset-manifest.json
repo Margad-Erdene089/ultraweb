@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ultraweb/static/css/main.460f308d.css",
-    "main.js": "/ultraweb/static/js/main.63a930e2.js",
+    "main.css": "/ultraweb/static/css/main.9cf657c0.css",
+    "main.js": "/ultraweb/static/js/main.87b841a3.js",
     "index.html": "/ultraweb/index.html",
-    "main.460f308d.css.map": "/ultraweb/static/css/main.460f308d.css.map",
-    "main.63a930e2.js.map": "/ultraweb/static/js/main.63a930e2.js.map"
+    "main.9cf657c0.css.map": "/ultraweb/static/css/main.9cf657c0.css.map",
+    "main.87b841a3.js.map": "/ultraweb/static/js/main.87b841a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.460f308d.css",
-    "static/js/main.63a930e2.js"
+    "static/css/main.9cf657c0.css",
+    "static/js/main.87b841a3.js"
   ]
 }

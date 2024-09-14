@@ -1,10 +1,11 @@
+import Home from './components/Home';
 
-
-
-import Navbar from '/home/margad/Documents/Web/ultraweb/src/components/navbar';
 function App() {
   return (
-     <Navbar/>
+    <>
+      
+      <Home />
+    </>
   );
 }
 

@@ -1,26 +1,27 @@
 import React from 'react';
-import '../assets/Navbar.css'; // Import the CSS file
+import '../assets/Navbar.css'; 
 
 const Navbar = () => {
   return (
-    <div className='header'> {/* Wrapping everything inside a parent div */}
+    <div class="father">
+       <div class='header'> 
             
-      <a href="https://example.com"  class="logo">Социал Демократ Монголын Эмэгтэйчүүдийн холбоо </a>
-
-      <div id="menu" className="fas fa-bars"></div>
+            <a href="home"  class="logo">Социал Демократ Монголын Эмэгтэйчүүдийн Холбоо </a>
       
-      <nav class="navbar">
-            <ul>   
-            <li><a class="active" href="#home">Нүүр Хуудас</a></li>
-            <li><a href="#about">Бидний тухай</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#education">Education</a></li>
-            <li><a href="#work">Мэдээ мэдээлэл</a></li>
-            <li><a href="#experience">Тун удахгүй</a></li>
-            <li><a href="#contact">Бидэнтэй Холбогдох</a></li>
-            </ul>
-        </nav>
+            
+            
+            <nav class="navbar">
+                  <ul>   
+                  <li><a class="active" href="#home">Нүүр Хуудас</a></li>
+                  <li><a href="#about">Бидний тухай</a></li>
+                  <li><a href="#information">Мэдээ Мэдээлэл</a></li>
+                  <li><a href="#comingSoon">Тун Удахгүй</a></li>
+                  <li><a href="#contact">Бидэнтэй Холбогдох</a></li>
+                  </ul>
+              </nav>
+          </div>
     </div>
+   
   );
 };
 

@@ -1,0 +1,15 @@
+/* Assuming the previous navbar styles */
+*{
+    background-color:  #e5ecfb;;
+}
+  
+  .main-content {
+    margin-top: 8rem; /* Add margin to ensure content is visible below the navbar */
+    padding: 2rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+      

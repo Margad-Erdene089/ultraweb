@@ -15,8 +15,8 @@
     background-color: transparent;
     outline: none;
     border: 0;
-    color: whitesmoke;
-    font-size: 24px;
+    color: rgb(199, 43, 67);
+    font-size: 48px;
   }
   
   .container__slider > button:active {
@@ -33,13 +33,7 @@
     left: 0;
   }
   
-  .container__slider__links {
-    position: absolute;
-    bottom: 5%;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-  
+ 
   .container__slider__links-small {
     position: relative;
     width: 8px;
@@ -98,7 +92,7 @@
   }
   
   .slider__item img {
-    width: 100%;
-    height: auto;
+    width: 100%;        /* Full width */
+    height: 770px; 
   }
   

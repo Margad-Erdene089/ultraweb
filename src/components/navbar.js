@@ -6,7 +6,7 @@ const Navbar = () => {
     <div class="father">
        <div class='header'> 
             
-            <a href="home"  class="logo">Социал Демократ Монголын Эмэгтэйчүүдийн Холбоо </a>
+            <a href="home"  class="logo">Социал Демократ Монголын Эмэгтэйчүүдийн Холбоо  (SD WOMEN)</a>
       
             
             

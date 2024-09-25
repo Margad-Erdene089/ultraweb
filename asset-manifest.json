@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ultraweb/static/css/main.45fa2afa.css",
-    "main.js": "/ultraweb/static/js/main.d6524328.js",
-    "static/js/453.21982bce.chunk.js": "/ultraweb/static/js/453.21982bce.chunk.js",
+    "main.css": "/ultraweb/static/css/main.e0052013.css",
+    "main.js": "/ultraweb/static/js/main.f3607d84.js",
+    "static/media/together3.jpg": "/ultraweb/static/media/together3.3f8210eb95d5ec4069f8.jpg",
+    "static/media/together2.jpg": "/ultraweb/static/media/together2.4334801be224123dba01.jpg",
+    "static/media/together1.jpg": "/ultraweb/static/media/together1.a9f3f1a8ea2a27ae0d69.jpg",
+    "static/media/together4.jpg": "/ultraweb/static/media/together4.a66a7c1660ce13ed0b2b.jpg",
     "index.html": "/ultraweb/index.html",
-    "main.45fa2afa.css.map": "/ultraweb/static/css/main.45fa2afa.css.map",
-    "main.d6524328.js.map": "/ultraweb/static/js/main.d6524328.js.map",
-    "453.21982bce.chunk.js.map": "/ultraweb/static/js/453.21982bce.chunk.js.map"
+    "main.e0052013.css.map": "/ultraweb/static/css/main.e0052013.css.map",
+    "main.f3607d84.js.map": "/ultraweb/static/js/main.f3607d84.js.map"
   },
   "entrypoints": [
-    "static/css/main.45fa2afa.css",
-    "static/js/main.d6524328.js"
+    "static/css/main.e0052013.css",
+    "static/js/main.f3607d84.js"
   ]
 }
